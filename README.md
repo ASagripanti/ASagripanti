@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning
   - Real Time Simulation
   - Hardware-in-The-Loop
-- 💞️ I’m looking to collaborate
+- 💞️ I’m looking to collaborate on HIL and RTS
 - 📫 How to reach me:
   - alessia.sagripanti1997@gmail.com
   - alessia.sagripanti@rse-web.it 
